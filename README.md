@@ -4,7 +4,19 @@ This is a Structural Design Pattern
 
 Inspired on [github ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift#-adapter)
 
+## Pattern Definition
+
 The adapter pattern is used to provide a link between two otherwise incompatible types by wrapping the "adaptee" with a class that supports the interface required by the client.
+
+## Class Diagram
+
+![Adapter Design Pattern class diagram](./Diagrams/Adapter-Design-Pattern.png)
+
+## Class Diagram for [OldDeathStar Adapter example (@ochococo)](https://github.com/ochococo/Design-Patterns-In-Swift#-adapter)
+
+![Class Diagram for OldDeathStar Adapter example (@ochococo)](./Diagrams/OldDeathStarAdapter.png)
+
+## Implementation Details
 
 I implemented a second example, the one present in [Design Patterns book by Head First](http://shop.oreilly.com/product/9780596007126.do). An implementation in Java can be found in [github:adagio/javaAdapterDP](https://github.com/adagio/javaAdapterDP)
 
